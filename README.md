@@ -30,11 +30,11 @@ Change it to:
     module: "compliments",
     position: "lower_third",
     config: {
-        remoteFile: "https://raw.githubusercontent.com/michadenheijer/MagicMirrorCompliments/main/nl.json"
+        remoteFile: "https://raw.githubusercontent.com/BluetriX/MagicMirrorCompliments/main/de.json"
     }
 },
 ```
-Change ```nl.json``` to your own language like ```en.json``` or ```fr.json```. The abbreviation of your language can be found above.
+Change ```de.json``` to your own language like ```en.json``` or ```fr.json```. The abbreviation of your language can be found above.
 
 ## Credits
 Dutch and English languages by [Micha den Heijer](https://github.com/michadenheijer), 
