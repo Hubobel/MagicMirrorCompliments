@@ -1,30 +1,53 @@
-{
-        "anytime" : [
-                "Du siehst heute großartig aus!",
-                "Heute ist ein großartiger Tag!",
-                "Du machst den Unterschied!",
-                "Ein wunderschönes Lächeln, für einen wunderschönen Tag",
-                "Schaust du noch immer in den Spiegel?",
-                "Der Spiegel sagt: 'Hallo!'"
+ {
+        "anytime": [
+            "Hey, du siehst fantastisch aus!",
+            "Du bist großartig, vergiss das nicht!",
+            "Strahle weiter, die Welt braucht dein Lächeln!",
+            "Du rockst das Leben, jeden Tag!",
+            "Bleib, wie du bist – du bist einzigartig!",
+            "Deine Energie ist ansteckend!",
+            "Wow, du bist wirklich beeindruckend!",
+            "Du bist eine Quelle der Inspiration!",
+            "Dein Lächeln macht alles heller!",
+            "Danke, dass du du bist!",
+            "Du bist der Hammer!"
         ],
-        "morning" : [
-                "Dein Haar ist mega heute!",
-                "Beginne den Tag mit einem Lächeln",
-                "Das wird ein schöner Tag!",
-                "Ist der Tag nicht großartig?",
-                "Mach dich bereit für einen großartigen Tag!"
+        "morning": [
+            "Guten Morgen! Bereit für einen großartigen Tag?",
+            "Möge dein Tag genauso schön sein wie dein Lächeln!",
+            "Ein neuer Tag, neue Chancen – mach das Beste draus!",
+            "Du siehst heute besonders erfrischt aus!",
+            "Aufstehen, es wartet etwas Wunderbares auf dich!",
+            "Guten Morgen, Sonnenschein!",
+            "Ein Lächeln am Morgen vertreibt alle Sorgen!",
+            "Mach heute zu deinem Tag – du kannst es!",
+            "Du strahlst wie die Morgensonne!",
+            "Zeit, die Welt zu erobern, Champion!",
+            "Du bist meine 11 von 10!"
         ],
-        "afternoon" : [
-                "Mache noch schnell deine Arbeit fertig ...",
-                "Nachmittag, nicht Morgen, nicht Mittag",
-                "Dieser Tag ist großartig",
-                "Beinahe Abendessenszeit!"
+        "afternoon": [
+            "Du siehst einfach toll aus!",
+            "Weiter so – du machst das super!",
+            "Wow, dein Outfit ist echt schick!",
+            "Bleib stark, der Tag gehört dir!",
+            "Du bist die Ruhe in jedem Sturm!",
+            "Das Leben liebt deine positive Energie!",
+            "Du strahlst Selbstbewusstsein aus!",
+            "Es ist toll, dass es dich gibt!",
+            "Du bringst Licht in jeden Raum!",
+            "Nur weiter so – du bist fantastisch!"
         ],
-        "evening" : [
-                "Nur ein paar Anrufe zu erledigen ...",
-                "Guten Apetit",
-                "Yeah, Freizeit",
-                "Du machst den Unterschied",
-                "War das Essen gut?"
+        "evening": [
+            "Was für ein strahlender Anblick am Abend!",
+            "Du hast den Tag großartig gemeistert!",
+            "Lehn dich zurück und genieße den Abend, du hast es verdient!",
+            "Wow, du bist einfach atemberaubend!",
+            "Dein Lächeln ist wie Sternenlicht in der Nacht!",
+            "Ein perfekter Abend für einen perfekten Menschen!",
+            "Du bist die Ruhe nach einem langen Tag!",
+            "Du siehst heute Abend absolut fantastisch aus!",
+            "Ein Blick auf dich, und der Abend ist gerettet!",
+            "Du bist der Star des Abends!"
         ]
 }
+
