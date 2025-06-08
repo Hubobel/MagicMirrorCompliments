@@ -23,7 +23,13 @@
             "Mach heute zu deinem Tag – du kannst es!",
             "Du strahlst wie die Morgensonne!",
             "Zeit, die Welt zu erobern, Champion!",
-            "Du bist meine 11 von 10!"
+            "Du bist meine 11 von 10!",
+            "Guten Morgen, Sonnenschein!",
+            "Wer braucht schon Kaffee, wenn du so ein Lächeln hast?",
+            "Hol sie dir, Tiger!",
+            "Stürz dich in den Tag, du geile Sau, du!",
+            "Ich liebe den Geruch von Napalm am Morgen",
+            "Du bist heute früh dran"
         ],
         "afternoon": [
             "Du siehst einfach toll aus!",
@@ -35,6 +41,9 @@
             "Du strahlst Selbstbewusstsein aus!",
             "Es ist toll, dass es dich gibt!",
             "Du bringst Licht in jeden Raum!",
+            "Du kommst richtig in Fahrt!",
+            "Du machst einen Unterschied!",
+            "Du bist lustiger als Luftpolsterfolie!",
             "Nur weiter so – du bist fantastisch!"
         ],
         "evening": [
@@ -47,7 +56,34 @@
             "Du bist die Ruhe nach einem langen Tag!",
             "Du siehst heute Abend absolut fantastisch aus!",
             "Ein Blick auf dich, und der Abend ist gerettet!",
+            "Du hast heute jemandem ein Lächeln geschenkt, das weiß ich",
+            "Du machst einen Unterschied",
+            "Der Tag war besser dank deiner Mühe",
+            "Bis morgen!",
+            "Schlaf gut",
             "Du bist der Star des Abends!"
+        ],
+        "day_sunny" : [
+            "Heute ist ein sonniger Tag",
+            "Es ist ein schöner Tag",
+            "Heute scheint die Sonne!",
+            "Es ist so ein schöner Tag",
+            "Draußen ist es wunderschön, geh spielen!"
+        ],
+        "day_cloudy" : [
+            "Draußen ist es bewölkt, aber keine Fleischbällchen",
+            "Es ist vielleicht bewölkt, aber trotzdem schön draußen!",
+            "Die Sonne versteckt sich gerade"
+        ],
+        "rain" : [
+            "Nimm deinen Regenschirm mit",
+            "Draußen ist es nass, fahr vorsichtig!",
+            "Draußen regnet es, aber du erhellst meinen Tag"
+        ],
+        "night_clear": [
+            "It's a stormy night, don't be scared"
         ]
+
+
 }
 
