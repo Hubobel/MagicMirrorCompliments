@@ -19,7 +19,7 @@ Scroll till you can see the compliments module. It looks something like this:
 },
 ```
 Change it to:
-> ⚠️ MagicMirror-Compliments is deprecated, please consider creating your own fork and using that url as ```remoteFile```.
+nts is deprecated, please consider creating your own fork and using that url as ```remoteFile```.
 ```javascript
 {
     module: "compliments",
