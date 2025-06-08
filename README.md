@@ -3,6 +3,7 @@
 At the moment there are just four languages: 
 - English ```en.json``` 
 - **German ```de.json```**
+- **Chuck Norris Facts ```chuck.json```**
 - Dutch ```nl.json```
 - Chuvash ```cv.json```
 
