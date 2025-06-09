@@ -34,7 +34,8 @@ Change ```de.json``` to your own language like ```en.json``` or ```fr.json```. T
 
 ## Credits
 Dutch and English languages by [Micha den Heijer](https://github.com/michadenheijer), 
-German language by [fixing-it](https://github.com/fixing-it),
+German language by https://daddyc.de,
 Chuvash language by [mirontoli](https://github.com/mirontoli).
+Chuck Norris Facts https://www.roundhousekick.de
 # Visit MagicMirror!
 [MagicMirror](https://github.com/MichMich/MagicMirror)
