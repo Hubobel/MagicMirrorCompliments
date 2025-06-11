@@ -3,6 +3,7 @@
 folgende Files stehen momentan zur Verfügung: 
 
 - **German ```de.json```**
+- **Philosophien des SWR3-Radios ```philo.json```**
 - **Chuck Norris Facts ```chuck.json```**
 - **eine Kombi aus Facts, Philosophie und Glückwünschen ```kombi.json```**
 
