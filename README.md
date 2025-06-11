@@ -4,6 +4,7 @@ At the moment there are just four languages:
 - English ```en.json``` 
 - **German ```de.json```**
 - **Chuck Norris Facts ```chuck.json```**
+- **eine Kombi aus Facts, Philosophie und Glückwünschen ```kombi.json```**
 - Dutch ```nl.json```
 - Chuvash ```cv.json```
 
