@@ -1,19 +1,19 @@
-## How to add the compliments to your MagicMirror
-### Step 1: Check for supported languages
-At the moment there are just four languages: 
-- English ```en.json``` 
+## So fügen Sie die Komplimente zu Ihrem MagicMirror hinzu
+### Step 1: welches File soll benutzt werden.
+folgende Files stehen momentan zur Verfügung: 
+
 - **German ```de.json```**
 - **Chuck Norris Facts ```chuck.json```**
 - **eine Kombi aus Facts, Philosophie und Glückwünschen ```kombi.json```**
-- Dutch ```nl.json```
-- Chuvash ```cv.json```
+
 
 ### Step 2: Change config
 Open your config:
 ```bash
 sudo nano ~/MagicMirror/config/config.js
 ```
-Scroll till you can see the compliments module. It looks something like this:
+
+Scrollen Sie, bis Sie das compliments module sehen können. Es sieht in etwa so aus
 ```javascript
 {
     module: "compliments",
@@ -21,22 +21,18 @@ Scroll till you can see the compliments module. It looks something like this:
 },
 ```
 Change it to:
-nts is deprecated, please consider creating your own fork and using that url as ```remoteFile```.
+
 ```javascript
 {
     module: "compliments",
-    position: "lower_third",
+    position: "bottom_bar", 
     config: {
-        remoteFile: "https://raw.githubusercontent.com/BluetriX/MagicMirrorCompliments/main/de.json"
-    }
-},
+      remoteFile: "https://raw.githubusercontent.com/Hubobel/MagicMirrorCompliments/main/kombi.json",
+      specialDayUnique: true,
+      classes: "thin medium bright"
+    },
 ```
-Change ```de.json``` to your own language like ```en.json``` or ```fr.json```. The abbreviation of your language can be found above.
 
-## Credits
-Dutch and English languages by [Micha den Heijer](https://github.com/michadenheijer), 
-German language by https://daddyc.de,
-Chuvash language by [mirontoli](https://github.com/mirontoli).
 Chuck Norris Facts https://www.roundhousekick.de
 # Visit MagicMirror!
 [MagicMirror](https://github.com/MichMich/MagicMirror)
