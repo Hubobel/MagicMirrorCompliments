@@ -34,5 +34,7 @@ Change it to:
 ```
 
 Chuck Norris Facts https://www.roundhousekick.de
+Filosophie: https://www.swr3.de
+
 # Visit MagicMirror!
 [MagicMirror](https://github.com/MichMich/MagicMirror)
